@@ -271,9 +271,9 @@ built from August to September 2026.
 | | Role |
 |---|---|
 | **Flavius Neamu** — [@Flavius1012](https://github.com/Flavius1012) | Full-stack development |
-| **Raul Daniel Macovei** — [@raul-dan23](https://github.com/raul-dan23) | Full-stack development |
+| **Raul Macovei** — [@raul-dan23](https://github.com/raul-dan23) | Full-stack development |
 
 ---
 
-© 2026 Flavius Neamu & Raul Daniel Macovei. All rights reserved. This
+© 2026 Flavius Neamu & Raul Macovei. All rights reserved. This
 repository contains documentation only.
